@@ -1,4 +1,4 @@
-# Breacking Bad React App 
+# Breaking Bad App 
 
 ### React & [Breaking Bad API](https://breakingbadapi.com/)
 
