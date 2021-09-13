@@ -1,6 +1,6 @@
 # Breacking Bad React App 
 
-### React & [breakingbadapi](https://breakingbadapi.com/)
+### React & [Breaking Bad API](https://breakingbadapi.com/)
 
 ## 🚀 Quick start
 
